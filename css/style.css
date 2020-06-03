@@ -11,9 +11,7 @@
     padding-top: 5%;
     background-color: #C3B7C7 ;
 }
-.style-pad{
-    padding-bottom: 5%;
-}
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
@@ -21,4 +19,39 @@ body{
 
 .navbar-dark {
      background-color: rgb(9, 2, 24);
+}
+
+.style-pad{
+    padding-bottom: 5%;
+}
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin: :0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom:1px ridge;
+    min-height: height 400px;
+}
+.footer{
+    background-color: darkcyan;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: darkcyan;
+    color: floralwhite;
+}
+
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: rgb(9, 2, 24);
+}
+a{
+   color: seashell;   
 }
