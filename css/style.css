@@ -52,10 +52,10 @@ body{
     margin: 0px;
     color: rgb(9, 2, 24);
 }
-a{
-   color: seashell;   
-}
 
+.ff{
+    color: whitesmoke;
+}
 .block {
     display: block;
     width: 100%;
@@ -65,3 +65,10 @@ a{
       padding-top: 5%;
       padding-bottom: 5%;
   }
+
+  .tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
